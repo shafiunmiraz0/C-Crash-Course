@@ -1,3 +1,5 @@
+![C-logo](https://github.com/shafiunmiraz0/C-Crash-Course/blob/main/Asset/2.png)
+
 [![C](https://img.shields.io/badge/C%20Programming-Language-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 
