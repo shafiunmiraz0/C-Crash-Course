@@ -7,7 +7,7 @@ C is a general-purpose, procedural computer programming language supporting stru
 
 ### Contents
 
-🟠 [![C](https://img.shields.io/badge/Introduction%20of-C%20Programming%20Language-blue?style=flat)]()
+🟠 [![C](https://img.shields.io/badge/Introduction%20of-C%20Programming%20Language-blue?style=flat)](https://github.com/shafiunmiraz0/C-Crash-Course/tree/main/Introduction)
 
 🟠 [![C](https://img.shields.io/badge/Windows-Setup-blue?style=flat)]()
 
